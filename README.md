@@ -1,8 +1,10 @@
 # PFA-II : Smart Car Remote
+
 Repo for our PFA II code files and folders.
 This is an end of second year academic project, elaborated by Nour Ben Sghaier and Souha Ghabri, and supervised by Mr Marwen Kermani.
 
 ## Introduction
+
 The aim of this project is to provide a more autonounous lifestyle to drivers by adding more security to their cars and turning various features to mobile controlled and supervised, using a mobile application.
 
 Using a Raspberry Pi and a camera module for computer vision with OpenCV (and TensorFlow Lite). 
@@ -46,4 +48,5 @@ Currently the following applications are implemented:
 - `Face_detection/face-detection`: Face detection & tracking
 
 ## License
+
 © This source code is licensed under the [MIT License](LICENSE).
