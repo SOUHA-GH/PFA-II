@@ -1,8 +1,8 @@
 ## **In this folder, you will find:**
 - A Camera Test
 - Motion Detection
-- Object Detection using Neural Network (TensorFlow Lite)
 - Face Detection and Tracking (Detecting face using Harr Cascade detector)
+- Object Detection using Neural Network (TensorFlow Lite)
   1. Color-based Object Detection and Tracking
   2. Shape-based Object Detection and Tracking
   3. Feature-based Object Detection and Tracking (with ORB : Oriented FAST and Rotated BRIEF)
