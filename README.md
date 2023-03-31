@@ -21,6 +21,7 @@ This project is dependent on the following packages:
 - Python >= 3.5
 - OpenCV-Python
 - OpenCV-Contrib-Python
+- OpenVINO
 - NumPy
 - SciPy
 - Matplotlib
@@ -35,6 +36,7 @@ For this project we used the following components.
 - Bread board
 - HDMI cable
 - SD card (32 Go)
+- Monitor + mouse + keyboard
 
 ## What's in this repository
 
